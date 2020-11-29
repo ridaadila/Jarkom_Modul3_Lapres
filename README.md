@@ -239,7 +239,7 @@ http_access deny all
 ######
 ![image](https://user-images.githubusercontent.com/71973415/100540346-6f009580-326f-11eb-8715-b02d37662213.png)
 #
-- Jalankan ``` service bind9 restart ``` . Kemudia ubah proxy di browser
+- Jalankan ``` service bind9 restart ``` . Kemudian ubah proxy di browser
 #####
 ![image](https://user-images.githubusercontent.com/71973415/100540390-ba1aa880-326f-11eb-8bad-7f7539346b36.png)
 
